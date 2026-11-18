@@ -1,3 +1,3 @@
 # schedule-test
 
-Checks whether scheduled GitHub Actions workflows fire on this account. Safe to delete.
+From May 2026 schedule_workflow is unreliable this repository tests whether it is reliable again.
